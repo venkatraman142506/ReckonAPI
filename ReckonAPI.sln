@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReckonAPI", "ReckonAPI\ReckonAPI.csproj", "{F5C0AA95-A470-4E17-B403-8D3AA2F81CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReckonAPI.Tests", "ReckonAPI.Tests\ReckonAPI.Tests.csproj", "{7307D9EC-DB9B-4DE0-9066-F4153CF0194B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C0AA95-A470-4E17-B403-8D3AA2F81CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C0AA95-A470-4E17-B403-8D3AA2F81CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C0AA95-A470-4E17-B403-8D3AA2F81CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C0AA95-A470-4E17-B403-8D3AA2F81CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7307D9EC-DB9B-4DE0-9066-F4153CF0194B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7307D9EC-DB9B-4DE0-9066-F4153CF0194B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7307D9EC-DB9B-4DE0-9066-F4153CF0194B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7307D9EC-DB9B-4DE0-9066-F4153CF0194B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE748AB-258B-44B8-96E0-94D32297E096}
+	EndGlobalSection
+EndGlobal
